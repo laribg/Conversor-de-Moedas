@@ -2,7 +2,7 @@
 
 Bem vindo(a) ao desafio do módulo de JavaScript-WEB da Trilha FullStack-PRO do DevClub! Nele, foi proposto a criação de um Conversor de Moedas funcional utilizando principalmente fundamentos de Javascript, colocando em prática as propriedades básicas dessa linguagem de programação.
 
-[Clique aqui](https://laribg.github.io/desafio-TrilhaCss-Dio/) para acessar o resultado final do desafio proposto.
+[Clique aqui](https://) para acessar o resultado final do desafio proposto.
 
 ![image](./assets/desafio-conversor-de-moedas-js.png)
 
